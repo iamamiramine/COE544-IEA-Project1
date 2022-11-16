@@ -1,5 +1,6 @@
 # COE544-IEA-Project1
 Supervised Machine Learning Model based on Optical Character Recognition
+
 Libraries needed to run this project:
 
   1-scikit-image
@@ -13,6 +14,7 @@ Libraries needed to run this project:
   5-pandas
   
   6-numpy
+  
   
 The GUI2.py script runs the whole project through a graphical user interface
 
